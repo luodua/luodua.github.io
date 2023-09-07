@@ -12,8 +12,12 @@
 - 大洪水难民幸存者🌱
 - 中文脚本引擎开发者⚡ [论坛首发开源地址](https://bbs.125.la/forum.php?mod=viewthread&tid=14442109&extra=) [项目github仓库](https://github.com/luodua/Chinese-Script-Engine/) 
 - 游戏设计爱好者👨‍💻 曾经制作口袋精灵2复刻版
-- 开源波浪模拟器 [点我点我]() 
-- 了解更多，博客地址：[点我点我](https://www.cnblogs.com/epiphanyone/)  
+- 开源波浪流体模拟器 [开源地址](https://gitee.com/air0/stokes-wave-simulator)
+<div align="center">
+<img src="https://luodua.github.io/images/51.png" align="center" style="width: 100%;height:200px" />
+<img src="https://luodua.github.io/images/52.png" align="center" style="width: 100%;height:200px" />
+</div>  
+- 了解更多，我的博客地址：[点我点我](https://www.cnblogs.com/epiphanyone/)  
 
 <br/>  
 
