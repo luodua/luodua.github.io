@@ -14,11 +14,11 @@
 - 游戏设计爱好者👨‍💻 曾经制作口袋精灵2复刻版
 - 开源波浪流体模拟器 [开源地址](https://gitee.com/air0/stokes-wave-simulator)
 <div align="center">
-<img src="https://luodua.github.io/images/51.png" align="center" style="width: 100%;height:200px" />
-<img src="https://luodua.github.io/images/52.png" align="center" style="width: 100%;height:200px" />
+<img src="https://luodua.github.io/images/51.png" align="center" style="width: 100%" />
+<img src="https://luodua.github.io/images/52.png" align="center" style="width: 100%" />
 </div>  
 
-# 了解更多，我的博客地址：[点我点我](https://www.cnblogs.com/epiphanyone/) 
+### 了解更多，我的博客地址：[点我点我](https://www.cnblogs.com/epiphanyone/) 
 
 <br/>  
 
