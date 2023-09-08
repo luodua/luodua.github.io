@@ -14,6 +14,7 @@
 - 自制开源波浪流体模拟器 [开源地址](https://gitee.com/air0/stokes-wave-simulator) 
 - 水利转计算机在校生🚀（原来是Water专业的，有做流体模拟，人工智能流体仿真） 
 
+### 项目截图
 <div align="center">
 <img src="https://luodua.github.io/images/51.png" align="center" style="width: 100%" />
 <img src="https://luodua.github.io/images/52.png" align="center" style="width: 100%" />
@@ -24,7 +25,7 @@
 <br/>  
 
 
-## My Skill Set
+## 我的技能栈
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -47,7 +48,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github状态  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=luodua&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
