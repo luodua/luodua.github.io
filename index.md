@@ -10,11 +10,31 @@
 ### Glad to see you here! 下面简单做个自我介绍!
 - 大洪水难民幸存者🌱
 - 中文脚本引擎开发者⚡ [论坛首发开源地址](https://bbs.125.la/forum.php?mod=viewthread&tid=14442109&extra=) [项目github仓库](https://github.com/luodua/Chinese-Script-Engine/) 
-- 游戏设计爱好者👨‍💻 曾经制作口袋精灵2复刻版
+- 游戏设计爱好者👨‍💻 曾经主导口袋精灵2页游复刻，带大家回忆童年
 - 自制开源波浪流体模拟器 [开源地址](https://gitee.com/air0/stokes-wave-simulator) 
-- 水利转计算机在校生🚀（原来是Water专业的，有做流体模拟，人工智能流体仿真） 
+- 水利转计算机在校生🚀（原来是Water专业的，有做流体模拟，ConvLSTM人工智能流体仿真） 
+- 十年乒乓球选手，剧本杀爱好者
 
-### 项目截图
+### 团队项目
+#### 基于P4的可编程网络系统 [项目地址暂无]() 
+这是一个前后端应用系统，由四人小组完成。
+* 基于P4编写交换机程序，实现对数据包的捕获和处理，提取所需的网络状态信息。
+* 基于Python编写后端服务器程序，与前端通信，收集和处理交换机上的状态信息。然后处理请求。
+* 基于Vue和ECharts等前端技术，实现拓扑信息的可视化和网络状态的实时展示。
+  
+#### LSTM音乐生成 [项目地址暂无]() 
+这是一个MIDI 音乐生成项目，由四人小组完成。
+
+#### AI验证码识别 [项目地址暂无]() 
+这是一个AI验证码识别项目，由二人小组完成。
+
+
+
+
+
+
+
+### 项目部分截图
 <div align="center">
 <img src="https://luodua.github.io/images/51.png" align="center" style="width: 100%" />
 <img src="https://luodua.github.io/images/52.png" align="center" style="width: 100%" />
