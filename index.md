@@ -15,6 +15,7 @@
 - 水利转计算机在校生🚀（原来是Water专业的，有做流体模拟，ConvLSTM人工智能流体仿真） 
 - 十年乒乓球选手，剧本杀爱好者
 
+* * *
 #### 团队项目
 #### 基于P4的可编程网络系统 [项目地址暂无]() 
 这是一个前后端应用系统，由四人小组完成。
@@ -28,11 +29,7 @@
 #### AI验证码识别 [项目地址暂无]() 
 这是一个AI验证码识别项目，由二人小组完成。
 
-
-
-
-
-
+* * *
 
 ### 项目部分截图
 <div align="center">
@@ -44,7 +41,7 @@
 
 <br/>  
 
-
+* * *
 ## 我的技能栈
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -67,7 +64,7 @@
 
 <br/>  
 
-
+* * *
 ## Github状态  
 <table><tr><td valign="top" width="50%">
 
