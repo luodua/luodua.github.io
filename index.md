@@ -32,7 +32,7 @@
 #### 数独游戏设计          [项目地址](https://github.com/luodua/suduku2) 
 这是一个多线程生成9个数独的程序，前端Vue，ant design，JavaScript设计。后端使用Python语言，创建九个进程生成数独。
 * * *
-
+#### 人工智能药物推荐           [项目地址]() 
 
 ### 了解更多，我的博客地址：[不要点我](https://www.cnblogs.com/epiphanyone/) 
 
