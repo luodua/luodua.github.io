@@ -8,7 +8,6 @@
 </a>  
 
 ### Glad to see you here! 下面简单做个自我介绍!
-- 大洪水难民幸存者🌱
 - 中文脚本引擎开发者⚡ [论坛首发开源地址](https://bbs.125.la/forum.php?mod=viewthread&tid=14442109&extra=) [项目github仓库](https://github.com/luodua/Chinese-Script-Engine/) 
 - 游戏设计爱好者👨‍💻 曾经主导口袋精灵2页游复刻，带大家回忆童年
 - 水利转计算机在校生🚀 
