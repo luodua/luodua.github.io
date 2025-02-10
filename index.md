@@ -11,8 +11,7 @@
 - 大洪水难民幸存者🌱
 - 中文脚本引擎开发者⚡ [论坛首发开源地址](https://bbs.125.la/forum.php?mod=viewthread&tid=14442109&extra=) [项目github仓库](https://github.com/luodua/Chinese-Script-Engine/) 
 - 游戏设计爱好者👨‍💻 曾经主导口袋精灵2页游复刻，带大家回忆童年
-- 自制开源波浪流体模拟器 [开源地址](https://gitee.com/air0/stokes-wave-simulator) 
-- 水利转计算机在校生🚀（原来是Water专业的，有做流体模拟，ConvLSTM人工智能流体仿真） 
+- 水利转计算机在校生🚀 
 - 十年乒乓球选手，剧本杀爱好者
 
 
@@ -33,11 +32,6 @@
 
 * * *
 
-### 项目部分截图
-<div align="center">
-<img src="https://luodua.github.io/images/51.png" align="center" style="width: 100%" />
-<img src="https://luodua.github.io/images/52.png" align="center" style="width: 100%" />
-</div>  
 
 ### 了解更多，我的博客地址：[不要点我](https://www.cnblogs.com/epiphanyone/) 
 
