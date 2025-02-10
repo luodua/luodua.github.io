@@ -29,6 +29,8 @@
 #### AI验证码识别          [项目地址暂无]() 
 这是一个AI验证码识别项目，由二人小组完成。
 
+#### 数独游戏设计          [项目地址](https://github.com/luodua/suduku2) 
+这是一个多线程生成9个数独的程序，前端Vue，ant design，JavaScript设计。后端使用Python语言，创建九个进程生成数独。
 * * *
 
 
